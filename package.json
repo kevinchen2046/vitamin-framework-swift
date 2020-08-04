@@ -1,0 +1,14 @@
+{
+  "name": "vitamin-framework-swift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile":"F:\\Swift\\bin\\swiftc.exe -swift-version 4 main.swift -o main.exe",
+    "exec":".\\main.exe",
+    "start": "npm run compile&&npm run exec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

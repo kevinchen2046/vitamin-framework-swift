@@ -1,0 +1,13 @@
+{
+    "sfwbuild_version": "0.1",
+
+    "executable_name": "MultiClass",
+    "sources": [
+            "src/vitamin/string.swift",
+            "src/vitamin/logger.swift",
+            "src/vitamin/event.swift",
+            "main.swift"
+    ],
+    "subsystem": "console",
+    "strip": true
+}
